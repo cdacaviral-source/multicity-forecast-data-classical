@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T23:46:00.518140",
+  "generated_at": "2026-06-13T23:55:15.466001",
   "nasa_latest": "2026-06-10",
   "forecast_date": "2026-06-13",
   "cities": {
@@ -10,9 +10,9 @@
         "PRmsl": {
           "ensemble": 100540.7459,
           "MV_HLSTM_GRU": 100622.9533,
-          "MV_GRU": 100680.1438,
+          "MV_GRU": 100680.1437,
           "UV_HLSTM_GRU": 100528.3978,
-          "UV_GRU": 100331.4887,
+          "UV_GRU": 100331.4886,
           "unit": "Pa"
         },
         "RH2m": {
