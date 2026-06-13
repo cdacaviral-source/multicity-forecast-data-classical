@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T23:46:00.520138",
+  "generated_at": "2026-06-13T23:55:15.467725",
   "nasa_latest": "2026-06-10",
   "horizon": 5,
   "cities": {
@@ -14,9 +14,9 @@
             "PRmsl": {
               "ensemble": 100540.7459,
               "MV_HLSTM_GRU": 100622.9533,
-              "MV_GRU": 100680.1438,
+              "MV_GRU": 100680.1437,
               "UV_HLSTM_GRU": 100528.3978,
-              "UV_GRU": 100331.4887,
+              "UV_GRU": 100331.4886,
               "unit": "Pa"
             },
             "RH2m": {
@@ -44,7 +44,7 @@
             "PRmsl": {
               "ensemble": 100518.4607,
               "MV_HLSTM_GRU": 100492.3021,
-              "MV_GRU": 100677.6244,
+              "MV_GRU": 100677.6243,
               "UV_HLSTM_GRU": 100495.5765,
               "UV_GRU": 100408.3401,
               "unit": "Pa"
@@ -74,9 +74,9 @@
             "PRmsl": {
               "ensemble": 100547.4295,
               "MV_HLSTM_GRU": 100556.6537,
-              "MV_GRU": 100660.3815,
-              "UV_HLSTM_GRU": 100507.5548,
-              "UV_GRU": 100465.1281,
+              "MV_GRU": 100660.3814,
+              "UV_HLSTM_GRU": 100507.5549,
+              "UV_GRU": 100465.1279,
               "unit": "Pa"
             },
             "RH2m": {
@@ -105,8 +105,8 @@
               "ensemble": 100570.9102,
               "MV_HLSTM_GRU": 100568.2093,
               "MV_GRU": 100679.1128,
-              "UV_HLSTM_GRU": 100515.2243,
-              "UV_GRU": 100521.0944,
+              "UV_HLSTM_GRU": 100515.2244,
+              "UV_GRU": 100521.0943,
               "unit": "Pa"
             },
             "RH2m": {
@@ -134,7 +134,7 @@
             "PRmsl": {
               "ensemble": 100582.6717,
               "MV_HLSTM_GRU": 100572.7293,
-              "MV_GRU": 100675.4386,
+              "MV_GRU": 100675.4387,
               "UV_HLSTM_GRU": 100516.8707,
               "UV_GRU": 100565.6481,
               "unit": "Pa"
@@ -198,8 +198,8 @@
           "forecast_date": "2026-06-14",
           "forecasts": {
             "PRmsl": {
-              "ensemble": 100501.2956,
-              "MV_HLSTM_GRU": 100644.6417,
+              "ensemble": 100501.2957,
+              "MV_HLSTM_GRU": 100644.6418,
               "MV_GRU": 100483.8677,
               "UV_HLSTM_GRU": 100437.2264,
               "UV_GRU": 100439.4467,
@@ -216,7 +216,7 @@
             "TMP2m": {
               "ensemble": 31.3942,
               "MV_HLSTM_GRU": 30.9752,
-              "MV_GRU": 29.2322,
+              "MV_GRU": 29.2323,
               "UV_HLSTM_GRU": 33.7911,
               "UV_GRU": 31.5783,
               "unit": "C"
@@ -232,7 +232,7 @@
               "MV_HLSTM_GRU": 100529.636,
               "MV_GRU": 100475.9697,
               "UV_HLSTM_GRU": 100400.0458,
-              "UV_GRU": 100430.9457,
+              "UV_GRU": 100430.9458,
               "unit": "Pa"
             },
             "RH2m": {
@@ -258,11 +258,11 @@
           "forecast_date": "2026-06-16",
           "forecasts": {
             "PRmsl": {
-              "ensemble": 100468.7102,
-              "MV_HLSTM_GRU": 100579.1713,
-              "MV_GRU": 100472.6244,
+              "ensemble": 100468.7103,
+              "MV_HLSTM_GRU": 100579.1714,
+              "MV_GRU": 100472.6245,
               "UV_HLSTM_GRU": 100408.1828,
-              "UV_GRU": 100414.8624,
+              "UV_GRU": 100414.8625,
               "unit": "Pa"
             },
             "RH2m": {
@@ -289,8 +289,8 @@
           "forecasts": {
             "PRmsl": {
               "ensemble": 100500.5187,
-              "MV_HLSTM_GRU": 100648.3338,
-              "MV_GRU": 100479.3242,
+              "MV_HLSTM_GRU": 100648.3339,
+              "MV_GRU": 100479.3241,
               "UV_HLSTM_GRU": 100460.9213,
               "UV_GRU": 100413.4953,
               "unit": "Pa"
@@ -354,8 +354,8 @@
           "forecast_date": "2026-06-14",
           "forecasts": {
             "PRmsl": {
-              "ensemble": 100532.0166,
-              "MV_HLSTM_GRU": 100530.9638,
+              "ensemble": 100532.0167,
+              "MV_HLSTM_GRU": 100530.9639,
               "MV_GRU": 100488.494,
               "UV_HLSTM_GRU": 100525.0464,
               "UV_GRU": 100583.5623,
@@ -388,7 +388,7 @@
               "MV_HLSTM_GRU": 100540.3363,
               "MV_GRU": 100466.6224,
               "UV_HLSTM_GRU": 100527.6417,
-              "UV_GRU": 100592.6796,
+              "UV_GRU": 100592.6797,
               "unit": "Pa"
             },
             "RH2m": {
@@ -415,14 +415,14 @@
           "forecasts": {
             "PRmsl": {
               "ensemble": 100525.9218,
-              "MV_HLSTM_GRU": 100541.2053,
+              "MV_HLSTM_GRU": 100541.2054,
               "MV_GRU": 100439.603,
               "UV_HLSTM_GRU": 100528.5066,
               "UV_GRU": 100594.3722,
               "unit": "Pa"
             },
             "RH2m": {
-              "ensemble": 68.9326,
+              "ensemble": 68.9327,
               "MV_HLSTM_GRU": 71.1492,
               "MV_GRU": 66.0486,
               "UV_HLSTM_GRU": 70.9271,
@@ -446,9 +446,9 @@
             "PRmsl": {
               "ensemble": 100517.5094,
               "MV_HLSTM_GRU": 100536.1995,
-              "MV_GRU": 100413.7534,
+              "MV_GRU": 100413.7535,
               "UV_HLSTM_GRU": 100524.6443,
-              "UV_GRU": 100595.4403,
+              "UV_GRU": 100595.4404,
               "unit": "Pa"
             },
             "RH2m": {
