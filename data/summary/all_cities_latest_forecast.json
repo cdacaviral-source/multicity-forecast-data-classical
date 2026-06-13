@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T23:50:46.971427",
+  "generated_at": "2026-06-12T23:59:47.538641",
   "nasa_latest": "2026-06-09",
   "forecast_date": "2026-06-12",
   "cities": {
@@ -41,8 +41,8 @@
           "ensemble": 100269.5816,
           "MV_HLSTM_GRU": 99973.446,
           "MV_GRU": 100493.0212,
-          "UV_HLSTM_GRU": 100124.6963,
-          "UV_GRU": 100487.1626,
+          "UV_HLSTM_GRU": 100124.6964,
+          "UV_GRU": 100487.1625,
           "unit": "Pa"
         },
         "RH2m": {
@@ -71,7 +71,7 @@
           "ensemble": 100549.9203,
           "MV_HLSTM_GRU": 100546.2078,
           "MV_GRU": 100548.3316,
-          "UV_HLSTM_GRU": 100537.8796,
+          "UV_HLSTM_GRU": 100537.8795,
           "UV_GRU": 100567.2621,
           "unit": "Pa"
         },
@@ -86,7 +86,7 @@
         "TMP2m": {
           "ensemble": 30.4543,
           "MV_HLSTM_GRU": 30.1373,
-          "MV_GRU": 30.4269,
+          "MV_GRU": 30.4268,
           "UV_HLSTM_GRU": 30.8892,
           "UV_GRU": 30.3638,
           "unit": "C"
